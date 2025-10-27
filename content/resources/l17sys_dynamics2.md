@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for a lecture presentation.
 file: /courses/1-040-project-management-spring-2004/98dc6103b4a03bd6f5de657bd217f376_l17sys_dynamics2.pdf
+file_size: 1068141
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

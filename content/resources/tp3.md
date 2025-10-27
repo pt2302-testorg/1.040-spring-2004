@@ -2,6 +2,7 @@
 content_type: resource
 description: Phase 3 of the Term Project assignment.
 file: /courses/1-040-project-management-spring-2004/a2e7a8e4e48044c036eedb98e8758a7f_tp3.pdf
+file_size: 115485
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: Phase 1 of the Term Project assignment.
 file: /courses/1-040-project-management-spring-2004/13466cade01a3ac443205f07c91e5a22_tp1.pdf
+file_size: 37493
 file_type: application/pdf
 learning_resource_types:
 - Projects

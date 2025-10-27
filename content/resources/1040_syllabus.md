@@ -4,6 +4,7 @@ description: 'Diagram showing the framework for the course. The material in the 
   is divided into five major sections: Project Organization, Project Planning, Project
   Monitoring, Project Control, and Project Learning.'
 file: /courses/1-040-project-management-spring-2004/828d6e698f4792f9063909b7719b471e_1040_syllabus.jpg
+file_size: 86748
 file_type: image/jpeg
 image_metadata:
   caption: ''

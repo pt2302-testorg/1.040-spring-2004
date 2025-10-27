@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for a lecture presentation.
 file: /courses/1-040-project-management-spring-2004/ce2d0f287a05881533845a7510f51ceb_l6organization2.pdf
+file_size: 1602995
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

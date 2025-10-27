@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for a lecture presentation.
 file: /courses/1-040-project-management-spring-2004/c3f13ce50cdbfd894ef03674f149cb16_l8estimation2sp4.pdf
+file_size: 1038238
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
